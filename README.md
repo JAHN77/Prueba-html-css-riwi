@@ -74,7 +74,7 @@ Media queries are used to adjust:
 1. Download or clone the project repository:
 
 ```bash
-git clone https://github.com/JAHN77/prueba-htmal-css
+git clone https://github.com/JAHN77/Prueba-html-css-riwi.git
 ```
 
 2. Open the project folder.
